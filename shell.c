@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<sys/types.h>
-#include<ncurses.h>
+//#include<ncurses.h>
 
 #define MAX_COMMAND_SZ 100
 
